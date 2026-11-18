@@ -1,1 +1,1 @@
-# Seminati-Git
+# Seminari-Git
